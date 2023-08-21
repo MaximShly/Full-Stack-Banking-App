@@ -1,0 +1,19 @@
+{
+  "name": "littledb",
+  "version": "1.0.0",
+  "description": "lowdb sample for 1.125",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "author": "abel@mit.edu(original starter code)- Refactored by Maxim S.",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "firebase-admin": "^11.10.1",
+    "lowdb": "^1.0.0",
+    "mongodb": "^3.7.4"
+  }
+}
